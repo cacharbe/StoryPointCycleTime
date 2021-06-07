@@ -26,11 +26,11 @@ namespace StoryPointCycleTime
         public const bool FIELDDATA = false;
         public const string BASE = "https://dev.azure.com";
         public const string AUTHUSER = "chuck.charbeneau@accenture.com";
-        public const string PAT = "r5v4y3mjwckaxhzz6hjtw3km3o5xjmssetjmkbpdrbvkhvhxr4tq";
+        public const string PAT = "";
         public const string API = "api-version=6.0";
-        public const string ORG = "accenturecio08";
-        public const string PROJ = "EnterpriseArchitecture_2641";
-        public const string EXCELFILE = @"C:\chuck\projects\StoryPointCycleTime\StoryPointCycleTime -";
+        public const string ORG = "";
+        public const string PROJ = "";
+        public const string EXCELFILE = @"C:\<SOME FILE PATH WITH END SLUG>";
     }
 
     class Program
