@@ -25,7 +25,7 @@ namespace StoryPointCycleTime
         public const bool REPORTDATA = false;
         public const bool FIELDDATA = false;
         public const string BASE = "https://dev.azure.com";
-        public const string AUTHUSER = "chuck.charbeneau@accenture.com";
+        public const string AUTHUSER = "YOUR.EMAIL@HERE.com";
         public const string PAT = "";
         public const string API = "api-version=6.0";
         public const string ORG = "";
